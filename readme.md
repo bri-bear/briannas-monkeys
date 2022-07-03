@@ -12,4 +12,5 @@
 
 <h4 align="center">
     <b>Currently learning C, and interested in Haskell and FP as a whole.</b><br>
+    <b>Open to chat, or recommend me a computer sciencebook! skubcat#2838</b><br>
 </h4>
