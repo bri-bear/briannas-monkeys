@@ -16,5 +16,5 @@
 </h4>
 
 <h5 align="center">
- <b>recommend me a computer sciencebook! skubcat#2838</b><br>
+ <b>recommend me a computer science book or chat with me: skubcat#2838</b><br>
 </h4>
