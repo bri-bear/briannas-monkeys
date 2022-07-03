@@ -10,6 +10,6 @@
 </h1>
 
 
-<h2 align="center">
-    <b>I'm a new developer, currently learning C!</b><br>
-</h2>
+<h4 align="center">
+    <b>Currently learning C, and interested in haskell and FP as a whole.</b><br>
+</h4>
