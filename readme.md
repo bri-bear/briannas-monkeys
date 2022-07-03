@@ -11,5 +11,5 @@
 
 
 <h4 align="center">
-    <b>Currently learning C, and interested in haskell and FP as a whole.</b><br>
+    <b>Currently learning C, and interested in Haskell and FP as a whole.</b><br>
 </h4>
