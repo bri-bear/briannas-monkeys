@@ -16,5 +16,5 @@
 </h4>
 
 <h5 align="center">
- <b>recommend me your favourite CS or CS-adjacent book: skubcat#2838</b><br>
+ <b>recommend me your favourite CS or CS/Math book: skubcat#2838</b><br>
 </h5>
