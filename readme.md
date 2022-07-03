@@ -3,7 +3,9 @@
   
 </p>
 
-<b>Welcome to my profile!</b><br>
 
 
-----
+<h1 align="center">
+    <b>Welcome to my profile!</b><br>
+</h1>
+
