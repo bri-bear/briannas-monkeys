@@ -9,3 +9,7 @@
     <b>Welcome to my profile!</b><br>
 </h1>
 
+
+<h2 align="center">
+    <b>I'm a new developer, currently learning C!</b><br>
+</h2>
