@@ -21,4 +21,4 @@
 <h5 align="center">
  <b>recommend me your favourite computer science book: skubcat#2838</b><br>
 </h5>
-   <img width="100" height="80" src="https://64.media.tumblr.com/1ba13f0c6652a6017258c86c394ced6b/d722bffbbe64d134-79/s250x400/c21a3a57e7b62b499ebff696921b08d822027534.gif">
+   <img src="https://64.media.tumblr.com/1ba13f0c6652a6017258c86c394ced6b/d722bffbbe64d134-79/s250x400/c21a3a57e7b62b499ebff696921b08d822027534.gif">
