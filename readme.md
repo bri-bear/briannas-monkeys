@@ -8,7 +8,6 @@
 
 
 <h1 align="center">
-    <b>Welcome to my profile!</b><br>
     <img src="https://web.archive.org/web/20090829234600im_/http://geocities.com/EnchantedForest/Dell/8662/welcome.gif">
 
 </h1>
