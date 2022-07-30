@@ -22,5 +22,3 @@
  <b>recommend me your favourite CS or CS/Math book: skubcat#2838</b><br>
 </h5>
    <img width="100" height="80" src="https://64.media.tumblr.com/1ba13f0c6652a6017258c86c394ced6b/d722bffbbe64d134-79/s250x400/c21a3a57e7b62b499ebff696921b08d822027534.gif">
-   
-  <img width="100" height="80" src="  https://64.media.tumblr.com/843dd892de26b97fb057cea4d4551ad2/824618708f5b59be-9c/s250x250_c1/cb2c5d194d5622db5b30baa850c8f691bf8714b7.gif">
