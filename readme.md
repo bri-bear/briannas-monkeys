@@ -11,7 +11,7 @@
 
 
 <h4 align="center">
-    <b>Currently learning C, and interested in Haskell and FP as a whole.</b><br>
+    <b>I'm currently learning common lisp!</b><br>
    
 </h4>
 
