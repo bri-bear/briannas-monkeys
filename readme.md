@@ -28,4 +28,5 @@
 
 <h1 align="center">
 <b><img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/animation2.gif"></b><br>
+  <img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/ani2.gif">
 </h1>
