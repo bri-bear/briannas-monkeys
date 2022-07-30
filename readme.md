@@ -27,4 +27,4 @@
 <a href="https://www.youtube.com/watch?v=lh5oSs6K92w"><img src="https://64.media.tumblr.com/1ba13f0c6652a6017258c86c394ced6b/d722bffbbe64d134-79/s250x400/c21a3a57e7b62b499ebff696921b08d822027534.gif"></a>
 
 
-<img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/animation2.gif">
+</b><img src="https://web.archive.org/web/20091027164919/http://geocities.com/raven_241/anime/lain/animation2.gif"><br>
