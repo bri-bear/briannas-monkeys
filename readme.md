@@ -14,7 +14,7 @@
 
 
 <h4 align="center">
-   https://cdn.discordapp.com/attachments/992106318200582214/1009574304662425672/unknown.png
+  <b> <img src = "https://cdn.discordapp.com/attachments/992106318200582214/1009574304662425672/unknown.png"> </b>
 </h4>
 
 <h5 align="center">
