@@ -14,7 +14,6 @@
 
 
 <h4 align="center">
-    <b>I'm currently learning common lisp! <img width="25"  height="25" src="https://web.archive.org/web/20090822012421/http://geocities.com/WestHollywood/Stonewall/3296/lambdaspin.gif"> </b><br>
    
 </h4>
 
