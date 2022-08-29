@@ -18,7 +18,6 @@
 </h4>
 
 <h5 align="center">
- <b>recommend me your favourite computer science book: skubcat#2838</b><br>
  <img src="https://web.archive.org/web/20090830032725/http://geocities.com/Eureka/Plaza/9898/LainLain/emailput2.gif">
 </h5>
    
