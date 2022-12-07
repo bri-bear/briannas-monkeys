@@ -14,10 +14,7 @@
   <b> <img width="250" height="200" src="https://cdn.discordapp.com/attachments/992106318200582214/1009574304662425672/unknown.png"> </b>
 </h4>
 
-<h5 align="center">
- <img src="https://web.archive.org/web/20090830032725/http://geocities.com/Eureka/Plaza/9898/LainLain/emailput2.gif">
-</h5>
-   
+
 
 
 
